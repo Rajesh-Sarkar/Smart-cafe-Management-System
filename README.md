@@ -21,6 +21,3 @@ It helps manage a small cafe’s operations like managing the menu, taking custo
 - `rating.txt` → customer feedback
 - `stat.txt` → daily statistics
 
-## 💻 How to Run
-
-1. Compile the code:
